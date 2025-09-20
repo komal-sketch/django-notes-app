@@ -28,3 +28,8 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+# Notes-app snap:
+
+<img width="848" height="844" alt="Note-app" src="https://github.com/user-attachments/assets/950a123e-b183-4378-b940-77f97db873fe" />
+
