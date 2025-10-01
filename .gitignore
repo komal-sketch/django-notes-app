@@ -24,3 +24,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# .dockerignore
+data/
+mysql/
+.git
+*.log
+*.tmp
+
